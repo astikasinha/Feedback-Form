@@ -21,7 +21,8 @@ This project is a dynamic feedback system built using Django, where admins can c
 - **Admin Interface:** Django Admin
 
 
-![image](https://github.com/user-attachments/assets/9285ca1a-1eed-4577-90ce-87f65fcab13f)
+![image](https://github.com/user-attachments/assets/784739f5-5b24-47e2-ae99-71f912948c44)
+
 
 
 ##  Project Structure
